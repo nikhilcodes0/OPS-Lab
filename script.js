@@ -1,6 +1,6 @@
 console.log("Hello World!");
 const add = (a, b) => {
-  console.log(a + c);
+  console.log(a + b);
 };
 
 add(2, 3);
